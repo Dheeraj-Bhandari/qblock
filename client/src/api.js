@@ -1,4 +1,4 @@
-const base_Url = "http://localhost:5050";
+const base_Url = "https://qblock.vercel.app";
 
 export const getNotes = `${base_Url}/qblock/getnotes`;
 export const addNotes = `${base_Url}/qblock/addnotes`;
